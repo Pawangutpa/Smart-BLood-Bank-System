@@ -1,6 +1,15 @@
 # 🩸 Smart Blood Bank Management System
 
 ![Smart Blood Bank](photo.jpg)
+
+## 📱 Alert Notifications
+
+### 🌡️ Temperature Alert SMS
+![Temperature Alert](photo1.jpeg)
+
+### 🩸 Blood Unit Alert SMS
+![Blood Unit Alert](photo2.jpeg)
+
 > *IoT-based Smart Blood Bank using ESP32, DHT22, HX711, GSM, and Blynk*
 
 ---
