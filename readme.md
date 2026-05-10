@@ -5,11 +5,16 @@
 ## 📱 Alert Notifications
 
 ### 🌡️ Temperature Alert SMS
-![Temperature Alert](photo1.jpeg)
+![Temperature Alert](photo2.jpeg)
+
+### 📲 Blynk App Interface
+![Blynk Dashboard](photo3.jpg)
+
+### 📊 Live Monitoring on Blynk
+![Blynk Monitoring](photo4.jpg)
 
 ### 🩸 Blood Unit Alert SMS
-![Blood Unit Alert](photo2.jpeg)
-
+![Blood Unit Alert](photo1.jpeg)
 > *IoT-based Smart Blood Bank using ESP32, DHT22, HX711, GSM, and Blynk*
 
 ---
